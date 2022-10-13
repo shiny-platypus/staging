@@ -1,2 +1,2 @@
-# staging
+# Staging
 Staging environment setup code
