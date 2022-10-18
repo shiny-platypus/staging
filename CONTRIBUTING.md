@@ -1,0 +1,1 @@
+Remember - every repository should have a contributor's guide.
